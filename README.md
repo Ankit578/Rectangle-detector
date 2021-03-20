@@ -12,7 +12,7 @@ The app should be able to process the video to do something interesting. (e.g. d
 Once the application processes the video it should show a result/ output.
 
 ## Output
-Live detect Square on frame and crop it into image when capture
+This app will detect the rectangular-shaped object in the video and will crop it out. The cropped rectangle will be displayed in the output section.
 
 <a href="/Demo/app-release.apk" download style="background-color: 'blue', padding: 10px; border-radius: 10px">
     Try this apk

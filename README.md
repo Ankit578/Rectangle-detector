@@ -5,7 +5,7 @@ To avoid error from new React version, I suggest using ``yarn`` to install.
 yarn install
 ```
 ## Input
-You will have a day to create a simple iOS/Android application using React-Native. This app should do the following things:
+You will have a week to create a simple iOS/Android application using React-Native. This app should do the following things:
 
 The app should be able to take a video and save it locally
 The app should be able to process the video to do something interesting. (e.g. detect a horizontal/ vertical line drawn on paper)

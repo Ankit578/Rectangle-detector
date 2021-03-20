@@ -17,10 +17,6 @@ Live detect Square on frame and crop it into image when capture
 <a href="/Demo/app-release.apk" download style="background-color: 'blue', padding: 10px; border-radius: 10px">
     Try this apk
 </a>
-<br/>
-<br/>
-<img src="Demo/demo.gif" width="240px"/>
-
 
 
 

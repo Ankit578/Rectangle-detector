@@ -1,4 +1,4 @@
-## Square Detection
+## Rectangle Detection
 ## Installation
 To avoid error from new React version, I suggest using ``yarn`` to install.
 ```bash

@@ -227,7 +227,6 @@ export default class DocumentScanner extends PureComponent {
     clearTimeout(this.imageProcessorTimeout);
   }
 
-  // Called after the device gets setup. This lets you know some platform specifics
   // like if the device has a camera or flash, or even if you have permission to use the
   // camera. It also includes the aspect ratio correction of the preview
   onDeviceSetup = deviceDetails => {
